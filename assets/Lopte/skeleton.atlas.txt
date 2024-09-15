@@ -1,0 +1,22 @@
+skeleton.png
+	size: 1024, 128
+	filter: Linear, Linear
+	scale: 0.1
+AntiCircle/anticircle0
+	bounds: 834, 2, 102, 102
+AntiCircle/anticircle1
+	bounds: 730, 2, 102, 102
+AntiCircle/anticircle2
+	bounds: 626, 2, 102, 102
+AntiCircle/anticircle3
+	bounds: 522, 2, 102, 102
+AntiCircle/anticircle4
+	bounds: 418, 2, 102, 102
+AntiCircle/anticircle5
+	bounds: 314, 2, 102, 102
+AntiCircle/anticircle6
+	bounds: 210, 2, 102, 102
+AntiCircle/anticircle7
+	bounds: 106, 2, 102, 102
+AntiCircle/anticircle8
+	bounds: 2, 2, 102, 102

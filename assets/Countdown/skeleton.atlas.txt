@@ -1,0 +1,41 @@
+skeleton.png
+	size: 256, 128
+	filter: Linear, Linear
+	scale: 0.1
+AntiCircle/anticircle0
+	bounds: 2, 23, 102, 102
+Brojevi/1
+	bounds: 182, 61, 8, 20
+	offsets: 6, 0, 20, 20
+Brojevi/2
+	bounds: 182, 83, 14, 20
+	offsets: 3, 0, 20, 20
+Brojevi/3
+	bounds: 182, 105, 14, 20
+	offsets: 3, 0, 20, 20
+Brojevi/4
+	bounds: 82, 5, 16, 20
+	offsets: 2, 0, 20, 20
+	rotate: 90
+Brojevi/5
+	bounds: 147, 20, 14, 20
+	offsets: 3, 0, 20, 20
+Ostalo/Attack coming !
+	bounds: 24, 15, 56, 6
+Ostalo/Dole
+	bounds: 2, 2, 19, 20
+	rotate: 90
+Ostalo/Mockup
+	bounds: 106, 5, 120, 39
+	rotate: 90
+Ostalo/Talas
+	bounds: 147, 79, 46, 33
+	rotate: 90
+Ostalo/Talas1
+	bounds: 147, 41, 36, 33
+	offsets: 0, 0, 46, 33
+	rotate: 90
+Ostalo/Talas2
+	bounds: 163, 10, 46, 19
+	offsets: 0, 0, 46, 33
+	rotate: 90
